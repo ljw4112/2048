@@ -1,0 +1,14 @@
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\bin\Debug\Study08.exe.config
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\bin\Debug\Study08.exe
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\bin\Debug\Study08.pdb
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\obj\Debug\Study08.csprojAssemblyReference.cache
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\obj\Debug\Study08.csproj.CoreCompileInputs.cache
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\obj\Debug\Study08.exe
+C:\Users\TJOEUN\Documents\workspace\.Net\Study08\obj\Debug\Study08.pdb
+C:\Users\LeeJongwoo\Desktop\Study08\bin\Debug\Study08.exe.config
+C:\Users\LeeJongwoo\Desktop\Study08\bin\Debug\Study08.exe
+C:\Users\LeeJongwoo\Desktop\Study08\bin\Debug\Study08.pdb
+C:\Users\LeeJongwoo\Desktop\Study08\obj\Debug\Study08.csprojAssemblyReference.cache
+C:\Users\LeeJongwoo\Desktop\Study08\obj\Debug\Study08.csproj.CoreCompileInputs.cache
+C:\Users\LeeJongwoo\Desktop\Study08\obj\Debug\Study08.exe
+C:\Users\LeeJongwoo\Desktop\Study08\obj\Debug\Study08.pdb
